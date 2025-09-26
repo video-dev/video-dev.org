@@ -20,7 +20,7 @@ export default function Home() {
       </header>
       <main>
         <section className={styles.section}>
-          <h2><a href="https://join.slack.com/t/video-dev/shared_invite/zt-31ri87hc1-a4jx06_QWFjBO8vCLs_oiA">Join the Slack Community</a></h2>
+          <h2><a href="https://join.slack.com/t/video-dev/shared_invite/zt-3eqxsoy80-K9JtdDrL4Z5_sI9_wP58Cw">Join the Slack Community</a></h2>
         </section>
       </main>
       <footer className={styles.footer}>
