@@ -24,13 +24,13 @@ export default function Home() {
       <main>
         <section className={styles.section}>
           <h2>
-            Join the experimental <a href="/discord">Discord</a>.
+            Join the community on <a href="/discord">Discord</a>.
           </h2>
         </section>
         <section className={styles.section} style={{ marginTop: "2rem" }}>
           <h3>
             <a href="https://join.slack.com/t/video-dev/shared_invite/zt-3eqxsoy80-K9JtdDrL4Z5_sI9_wP58Cw">
-              Join the original Slack Community
+              Join the original Slack
             </a>
           </h3>
         </section>
